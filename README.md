@@ -95,7 +95,7 @@ footer{text-align:center;margin-top:34px;color:var(--muted);font-size:14px}
   </section>
 
   <details>
-    <summary>Dành cho người gửi: tạo link riêng 💞</summary>
+    <a href="https://google.com" target="_blank">Dành cho người gửi: tạo link riêng 💞</a>
     <div class="card">
       <label for="fTo">Tên người nhận</label><input id="fTo" placeholder="Ví dụ: Lan">
       <label for="fFrom">Tên của bạn</label><input id="fFrom" placeholder="Ví dụ: Minh">
